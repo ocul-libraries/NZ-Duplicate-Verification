@@ -1,5 +1,15 @@
 # NZ-Duplicate-Verification
-This project compares publisher, publication data, and edition statements in bibliographic records to verify true duplicates before merging. It uses a CSV input and JSON transformation rules, then outputs a merge-combine.csv file that can be used with Alma's built in Merge Records and Combine Inventory job.
+This project compares eight key descriptors in bibliographic records to verify true duplicates before merging. It uses a CSV input and JSON transformation rules, then outputs a merge-combine.csv file that can be used with Alma's built in Merge Records and Combine Inventory job. 
+
+The key descriptors are:
+- 'OCLC Control Number (035a)'
+- 'Material Type'
+- 'Language Code'
+- 'Language Of Cataloging'
+- 'Edition Simplified (Num)'
+- 'Edition Simplified (Text)'
+- 'Publisher' #Normalized with JSON files
+- 'Publication Date' #Normalized with JSON files
 
 The CSV input file can be exported from the shared Alma Analytic:
 /Shared Folders/UTON Network 01OCUL_NETWORK/Reports/NZ Duplicates - for script/NZ Duplicates - TEMPLATE
