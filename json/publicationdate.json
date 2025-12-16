@@ -1,0 +1,2256 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Publication Date",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1968.",
+          "[1968]",
+          "1968",
+          "[1968].",
+          "1968-",
+          "1968]",
+          "1968].",
+          "[1968-]",
+          "[1968?]",
+          "[1968?]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1968."
+      },
+      {
+        "from": [
+          "1969.",
+          "1969",
+          "[1969]",
+          "[1969].",
+          "1̀969",
+          "1969-",
+          "1969]",
+          "1969].",
+          "[1969?]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1969."
+      },
+      {
+        "from": [
+          "1973.",
+          "[1973]",
+          "1973",
+          "[1973]. -",
+          "(1973). -",
+          "1973-",
+          "1973. -",
+          "1973]. -",
+          "[1973]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1973."
+      },
+      {
+        "from": [
+          "1975.",
+          "[1975]",
+          "1975",
+          "[1975].",
+          "[1975?]",
+          "1975-",
+          "1975. -",
+          "1975]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1975."
+      },
+      {
+        "from": [
+          "1972.",
+          "1972",
+          "1972].",
+          "[1972]",
+          "1972]",
+          "[1972]. -",
+          "[1972].",
+          "1972-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1972."
+      },
+      {
+        "from": [
+          "1971.",
+          "[1971]",
+          "[1971].",
+          "1971",
+          "1971]",
+          "1971].",
+          "(1971). -",
+          "1971. -"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1971."
+      },
+      {
+        "from": [
+          "1974.",
+          "[1974]",
+          "1974. -",
+          "1974",
+          "1974-",
+          "[1974].",
+          "1974?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1974."
+      },
+      {
+        "from": [
+          "1970.",
+          "[1970]",
+          "[1970].",
+          "1970",
+          "(1970).",
+          "1970]",
+          "[1970-]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1970."
+      },
+      {
+        "from": [
+          "1700.",
+          "1700?]",
+          "[1700?]",
+          "[1700]",
+          "1700]",
+          "[1700]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1700."
+      },
+      {
+        "from": [
+          "1956.",
+          "[1956]",
+          "[1956].",
+          "1956",
+          "1956-",
+          "[1956]-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1956."
+      },
+      {
+        "from": [
+          "1965.",
+          "[1965]",
+          "[1965].",
+          "1965",
+          "1965].",
+          "[1965?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1965."
+      },
+      {
+        "from": [
+          "1963.",
+          "[1963]",
+          "[1963].",
+          "1963",
+          "1963-",
+          "1963]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1963."
+      },
+      {
+        "from": [
+          "1961.",
+          "[1961]",
+          "1961",
+          "[1961].",
+          "1961].",
+          "[1961-]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1961."
+      },
+      {
+        "from": [
+          "1976.",
+          "1976",
+          "1976 :",
+          "[1976].",
+          "1976-",
+          "[1976]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1976."
+      },
+      {
+        "from": [
+          "1985.",
+          "1985",
+          "[1985]",
+          "1985-",
+          "1985-.",
+          "[1985]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1985."
+      },
+      {
+        "from": [
+          "1681.",
+          "1681]",
+          "[1681]",
+          "1681?]",
+          "1681. ;",
+          "[1681?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1681."
+      },
+      {
+        "from": [
+          "1685.",
+          "1685]",
+          "1685 ;",
+          "[1685]",
+          "1685?]",
+          "[1685?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1685."
+      },
+      {
+        "from": [
+          "1948.",
+          "[1948]",
+          "1948",
+          "1948].",
+          "[1948]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1948."
+      },
+      {
+        "from": [
+          "1952.",
+          "1952",
+          "[1952]",
+          "[1952-",
+          "[1952]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1952."
+      },
+      {
+        "from": [
+          "1959.",
+          "[1959]",
+          "1959",
+          "[1959].",
+          "1959-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1959."
+      },
+      {
+        "from": [
+          "1958.",
+          "[1958]",
+          "1958",
+          "[1958].",
+          "1958]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1958."
+      },
+      {
+        "from": [
+          "1957.",
+          "[1957]",
+          "[1957].",
+          "1957",
+          "[1957?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1957."
+      },
+      {
+        "from": [
+          "1964.",
+          "[1964]",
+          "1964",
+          "[1964].",
+          "1964]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1964."
+      },
+      {
+        "from": [
+          "1962.",
+          "[1962]",
+          "1962",
+          "[1962].",
+          "1962]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1962."
+      },
+      {
+        "from": [
+          "1960.",
+          "[1960]",
+          "[1960].",
+          "1960",
+          "1960-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1960."
+      },
+      {
+        "from": [
+          "1990.",
+          "1990-",
+          "[1990]",
+          "1990",
+          "[1990]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1990."
+      },
+      {
+        "from": [
+          "1987.",
+          "1987",
+          "1987-",
+          "[1987]",
+          "[1987]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1987."
+      },
+      {
+        "from": [
+          "c1972.",
+          "[c1972]",
+          "[c1972.]",
+          "[c1972].",
+          "c1972"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1972."
+      },
+      {
+        "from": [
+          "1642.",
+          "1642]",
+          "[1642]",
+          "[1642?]",
+          "1642?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1642."
+      },
+      {
+        "from": [
+          "c1987.",
+          "[c1987]",
+          "c1987-.",
+          "c1987]",
+          "©1987."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1987."
+      },
+      {
+        "from": [
+          "1670.",
+          "1670]",
+          "1670?]",
+          "[1670]",
+          "[1670]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1670."
+      },
+      {
+        "from": [
+          "1682.",
+          "1682]",
+          "1682?]",
+          "[1682?]",
+          "[1682]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1682."
+      },
+      {
+        "from": [
+          "1680.",
+          "1680]",
+          "[1680?]",
+          "1680?]",
+          "[1680]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1680."
+      },
+      {
+        "from": [
+          "1678.",
+          "1678]",
+          "1678?]",
+          "[1678?]",
+          "[1678]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1678."
+      },
+      {
+        "from": [
+          "1690.",
+          "1690]",
+          "1690?]",
+          "[1690]",
+          "[1690?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1690."
+      },
+      {
+        "from": [
+          "1683.",
+          "[1683]",
+          "1683]",
+          "1683",
+          "[1683?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1683."
+      },
+      {
+        "from": [
+          "1699.",
+          "1699?]",
+          "1699]",
+          "[1699]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1699."
+      },
+      {
+        "from": [
+          "1697.",
+          "1697]",
+          "1697?]",
+          "[1697?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1697."
+      },
+      {
+        "from": [
+          "1695.",
+          "1695]",
+          "1695?]",
+          "[1695]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1695."
+      },
+      {
+        "from": [
+          "1694.",
+          "1694]",
+          "[1694]",
+          "1694?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1694."
+      },
+      {
+        "from": [
+          "1913",
+          "1913.",
+          "1913].",
+          "[1913]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1913"
+      },
+      {
+        "from": [
+          "1912.",
+          "1912",
+          "1912-",
+          "[1912]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1912."
+      },
+      {
+        "from": [
+          "1921.",
+          "[1921]",
+          "1921",
+          "[1921]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1921."
+      },
+      {
+        "from": [
+          "1938.",
+          "[1938]",
+          "1938",
+          "[1938]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1938."
+      },
+      {
+        "from": [
+          "1943.",
+          "1943",
+          "[1943]",
+          "[1943]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1943."
+      },
+      {
+        "from": [
+          "1949.",
+          "1949",
+          "[1949]",
+          "[1949?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1949."
+      },
+      {
+        "from": [
+          "1946.",
+          "1946-",
+          "[1946]",
+          "1946"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1946."
+      },
+      {
+        "from": [
+          "1954.",
+          "1954",
+          "[1954]",
+          "[1954]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1954."
+      },
+      {
+        "from": [
+          "1953.",
+          "[1953]",
+          "[1953].",
+          "1953"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1953."
+      },
+      {
+        "from": [
+          "1951.",
+          "[1951].",
+          "1951",
+          "[1951]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1951."
+      },
+      {
+        "from": [
+          "1955.",
+          "[1955]",
+          "1955",
+          "[1955]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1955."
+      },
+      {
+        "from": [
+          "1967.",
+          "[1967]",
+          "1967",
+          "[1967]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1967."
+      },
+      {
+        "from": [
+          "1966.",
+          "[1966]",
+          "1966",
+          "[1966]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1966."
+      },
+      {
+        "from": [
+          "1983.",
+          "1983-",
+          "1983]",
+          "[1983]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1983."
+      },
+      {
+        "from": [
+          "1989.",
+          "[1989]",
+          "1989-",
+          "1989"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1989."
+      },
+      {
+        "from": [
+          "1988.",
+          "[1988]",
+          "1988",
+          "1988-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1988."
+      },
+      {
+        "from": [
+          "c1968.",
+          "[c1968]",
+          "[c1968.]",
+          "[c1968]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1968."
+      },
+      {
+        "from": [
+          "[c1970]",
+          "c1970]",
+          "[c1970].",
+          "c1970."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1970]"
+      },
+      {
+        "from": [
+          "2008.",
+          "2008",
+          "2008-",
+          "[2008]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2008."
+      },
+      {
+        "from": [
+          "2007.",
+          "2007",
+          "2007-",
+          "[2007]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2007."
+      },
+      {
+        "from": [
+          "16.",
+          "16--]",
+          "[16--?]",
+          "[16--]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "16."
+      },
+      {
+        "from": [
+          "1643.",
+          "1643]",
+          "1643?]",
+          "[1643]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1643."
+      },
+      {
+        "from": [
+          "1641.",
+          "1641]",
+          "[1641]",
+          "16[41]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1641."
+      },
+      {
+        "from": [
+          "1647.",
+          "1647]",
+          "16[47]",
+          "[1647]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1647."
+      },
+      {
+        "from": [
+          "c1989.",
+          "[c1989]",
+          "[c1989].",
+          "c1989-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1989."
+      },
+      {
+        "from": [
+          "1650.",
+          "1650?]",
+          "[1650?]",
+          "[1650]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1650."
+      },
+      {
+        "from": [
+          "c1990.",
+          "[c1990]",
+          "c1990",
+          "c1990-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1990."
+      },
+      {
+        "from": [
+          "1668.",
+          "[1668]",
+          "1668]",
+          "[1668?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1668."
+      },
+      {
+        "from": [
+          "1666.",
+          "1666?]",
+          "1666]",
+          "[1666]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1666."
+      },
+      {
+        "from": [
+          "1661.",
+          "[1661]",
+          "1661]",
+          "[1661?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1661."
+      },
+      {
+        "from": [
+          "1679.",
+          "1679]",
+          "1679?]",
+          "[1679]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1679."
+      },
+      {
+        "from": [
+          "1675.",
+          "1675]",
+          "1675?]",
+          "[1675]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1675."
+      },
+      {
+        "from": [
+          "1674.",
+          "1674?]",
+          "1674]",
+          "[1674]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1674."
+      },
+      {
+        "from": [
+          "1691.",
+          "1691?]",
+          "1691]",
+          "[1691]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1691."
+      },
+      {
+        "from": [
+          "1689.",
+          "[1689]",
+          "1689]",
+          "1689?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1689."
+      },
+      {
+        "from": [
+          "1688.",
+          "1688]",
+          "1688?]",
+          "[1688]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1688."
+      },
+      {
+        "from": [
+          "1687.",
+          "1687]",
+          "1687?]",
+          "[1687?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1687."
+      },
+      {
+        "from": [
+          "1686.",
+          "1686?]",
+          "1686]",
+          "16[86]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1686."
+      },
+      {
+        "from": [
+          "1698.",
+          "1698?]",
+          "1698]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1698."
+      },
+      {
+        "from": [
+          "1908.",
+          "1908",
+          "[1908]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1908."
+      },
+      {
+        "from": [
+          "1900.",
+          "1900",
+          "1900 ;"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1900."
+      },
+      {
+        "from": [
+          "1928.",
+          "1928",
+          "1928 ;"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1928."
+      },
+      {
+        "from": [
+          "1930.",
+          "[1930].",
+          "1930"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1930."
+      },
+      {
+        "from": [
+          "1939.",
+          "[1939].",
+          "[1939]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1939."
+      },
+      {
+        "from": [
+          "1940.",
+          "1940",
+          "[1940]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1940."
+      },
+      {
+        "from": [
+          "1947.",
+          "[1947]",
+          "1947"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1947."
+      },
+      {
+        "from": [
+          "1986.",
+          "[1986]",
+          "1986"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1986."
+      },
+      {
+        "from": [
+          "1991.",
+          "1991",
+          "[1991]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1991."
+      },
+      {
+        "from": [
+          "[c1969]",
+          "[c1969].",
+          "c1969."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1969]"
+      },
+      {
+        "from": [
+          "c1976.",
+          "[c1976]",
+          "©1976."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1976."
+      },
+      {
+        "from": [
+          "c1975.",
+          "[c1975].",
+          "c1975-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1975."
+      },
+      {
+        "from": [
+          "c1973.",
+          "[c1973]",
+          "c1973-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1973."
+      },
+      {
+        "from": [
+          "2022.",
+          "2022",
+          "[2022]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2022."
+      },
+      {
+        "from": [
+          "c2007.",
+          "c2007-",
+          "©2007."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c2007."
+      },
+      {
+        "from": [
+          "c2008.",
+          "©2008.",
+          "c2008-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c2008."
+      },
+      {
+        "from": [
+          "168-?]",
+          "168.",
+          "[168-?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "168-?]"
+      },
+      {
+        "from": [
+          "1617.",
+          "1617]",
+          "[1617]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1617."
+      },
+      {
+        "from": [
+          "1646.",
+          "[1646?]",
+          "[1646]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1646."
+      },
+      {
+        "from": [
+          "1644.",
+          "1644]",
+          "[1644]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1644."
+      },
+      {
+        "from": [
+          "1648.",
+          "1648]",
+          "1648?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1648."
+      },
+      {
+        "from": [
+          "c1988.",
+          "[c1988]",
+          "c1988-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1988."
+      },
+      {
+        "from": [
+          "c1985.",
+          "c1985-",
+          "c1985-."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1985."
+      },
+      {
+        "from": [
+          "1660.",
+          "1660]",
+          "1660?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1660."
+      },
+      {
+        "from": [
+          "1899.",
+          "1899]",
+          "1899]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1899."
+      },
+      {
+        "from": [
+          "1656.",
+          "1656]",
+          "[1656]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1656."
+      },
+      {
+        "from": [
+          "1654.",
+          "1654]",
+          "[1654]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1654."
+      },
+      {
+        "from": [
+          "1651.",
+          "1651 ;",
+          "1651]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1651."
+      },
+      {
+        "from": [
+          "1659.",
+          "1659]",
+          "[1659]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1659."
+      },
+      {
+        "from": [
+          "1658.",
+          "1658]",
+          "[1658]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1658."
+      },
+      {
+        "from": [
+          "c1992.",
+          "c1992-",
+          "[c1992]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1992."
+      },
+      {
+        "from": [
+          "1665.",
+          "[1665]",
+          "1665]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1665."
+      },
+      {
+        "from": [
+          "1676.",
+          "1676]",
+          "[1676]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1676."
+      },
+      {
+        "from": [
+          "1692.",
+          "1692]",
+          "1692"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1692."
+      },
+      {
+        "from": [
+          "Iuly 8, 1642.",
+          "Iuly 8 [1642]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Iuly 8, 1642."
+      },
+      {
+        "from": [
+          "1972 [c1875]",
+          "1972, c1875]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1972 [c1875]"
+      },
+      {
+        "from": [
+          "July 15, 1642.",
+          "July 15, [1642]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "July 15, 1642."
+      },
+      {
+        "from": [
+          "1966 [c1951]",
+          "1966 [c1951]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1966 [c1951]"
+      },
+      {
+        "from": [
+          "July 7 [1642]",
+          "July 7, 1642."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "July 7 [1642]"
+      },
+      {
+        "from": [
+          "1909.",
+          "[1909]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1909."
+      },
+      {
+        "from": [
+          "1903",
+          "1903."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1903"
+      },
+      {
+        "from": [
+          "1902",
+          "1902."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1902"
+      },
+      {
+        "from": [
+          "1919.",
+          "1919]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1919."
+      },
+      {
+        "from": [
+          "1918.",
+          "[1918]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1918."
+      },
+      {
+        "from": [
+          "1914.",
+          "1914"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1914."
+      },
+      {
+        "from": [
+          "1929.",
+          "1929"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1929."
+      },
+      {
+        "from": [
+          "1925.",
+          "1925. -"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1925."
+      },
+      {
+        "from": [
+          "1924.",
+          "[1924]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1924."
+      },
+      {
+        "from": [
+          "1923.",
+          "[1923]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1923."
+      },
+      {
+        "from": [
+          "1922.",
+          "[1922]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1922."
+      },
+      {
+        "from": [
+          "1932.",
+          "[1932]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1932."
+      },
+      {
+        "from": [
+          "1937",
+          "1937."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1937"
+      },
+      {
+        "from": [
+          "1936.",
+          "1936"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1936."
+      },
+      {
+        "from": [
+          "1935.",
+          "1935"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1935."
+      },
+      {
+        "from": [
+          "1934.",
+          "[1934]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1934."
+      },
+      {
+        "from": [
+          "1933.",
+          "[1933]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1933."
+      },
+      {
+        "from": [
+          "1942.",
+          "[1942]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1942."
+      },
+      {
+        "from": [
+          "[1945]",
+          "[1945]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[1945]"
+      },
+      {
+        "from": [
+          "Novemb. 25, 1642.",
+          "1642, Novemb. 25."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Novemb. 25, 1642."
+      },
+      {
+        "from": [
+          "1979.",
+          "1979"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1979."
+      },
+      {
+        "from": [
+          "1978.",
+          "1978"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1978."
+      },
+      {
+        "from": [
+          "1977.",
+          "1977"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1977."
+      },
+      {
+        "from": [
+          "1984.",
+          "1984"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1984."
+      },
+      {
+        "from": [
+          "1981.",
+          "1981"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1981."
+      },
+      {
+        "from": [
+          "1980.",
+          "1980"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1980."
+      },
+      {
+        "from": [
+          "1994.",
+          "1994"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1994."
+      },
+      {
+        "from": [
+          "1993.",
+          "1993"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1993."
+      },
+      {
+        "from": [
+          "1992.",
+          "1992-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1992."
+      },
+      {
+        "from": [
+          "1532?]",
+          "[1532?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1532?]"
+      },
+      {
+        "from": [
+          "1972-73.",
+          "[1972-73.]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1972-73."
+      },
+      {
+        "from": [
+          "[c1943.]",
+          "[c1943]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1943.]"
+      },
+      {
+        "from": [
+          "1582.",
+          "[1582?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1582."
+      },
+      {
+        "from": [
+          "[c1952]",
+          "c1952."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1952]"
+      },
+      {
+        "from": [
+          "c1958.",
+          "[c1958]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1958."
+      },
+      {
+        "from": [
+          "c1956.",
+          "[c1956.]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1956."
+      },
+      {
+        "from": [
+          "[c1957].",
+          "[©1957]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1957]."
+      },
+      {
+        "from": [
+          "1971, c1935.",
+          "[1971, c1935]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1971, c1935."
+      },
+      {
+        "from": [
+          "c1965.",
+          "[c1965]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1965."
+      },
+      {
+        "from": [
+          "c1966.",
+          "[c1966]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1966."
+      },
+      {
+        "from": [
+          "[c1963].",
+          "[©1963]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1963]."
+      },
+      {
+        "from": [
+          "c1964.",
+          "[c1964]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1964."
+      },
+      {
+        "from": [
+          "[c1967]",
+          "[c1967]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1967]"
+      },
+      {
+        "from": [
+          "[c1962]",
+          "c1962."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1962]"
+      },
+      {
+        "from": [
+          "[c1960].",
+          "c1960."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1960]."
+      },
+      {
+        "from": [
+          "1678/9 [i.e. 1679]",
+          "1678/9, [i.e. 1679]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1678/9 [i.e. 1679]"
+      },
+      {
+        "from": [
+          "1597.",
+          "[1597?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1597."
+      },
+      {
+        "from": [
+          "1971, c1929]",
+          "1971], c1929."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1971, c1929]"
+      },
+      {
+        "from": [
+          "1963 [c1949]",
+          "1963, [c1949]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1963 [c1949]"
+      },
+      {
+        "from": [
+          "c1977.",
+          "c1977"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1977."
+      },
+      {
+        "from": [
+          "MDCXCIII [1693]",
+          "MDCXCIII [1693]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MDCXCIII [1693]"
+      },
+      {
+        "from": [
+          "c1979.",
+          "©1979."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1979."
+      },
+      {
+        "from": [
+          "[c1971]",
+          "c1971."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1971]"
+      },
+      {
+        "from": [
+          "[c1909].",
+          "[©1909]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1909]."
+      },
+      {
+        "from": [
+          "1641 [i.e. 1642]",
+          "1641 [i.e. 1642]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1641 [i.e. 1642]"
+      },
+      {
+        "from": [
+          "[c1925]",
+          "c1925."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1925]"
+      },
+      {
+        "from": [
+          "2012.",
+          "[2012]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2012."
+      },
+      {
+        "from": [
+          "2009.",
+          "2009-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2009."
+      },
+      {
+        "from": [
+          "1949-50",
+          "1949-50."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1949-50"
+      },
+      {
+        "from": [
+          "[c1929]",
+          "[c1929]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1929]"
+      },
+      {
+        "from": [
+          "[c1930]",
+          "[c1930]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[c1930]"
+      },
+      {
+        "from": [
+          "[2023]",
+          "2023."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[2023]"
+      },
+      {
+        "from": [
+          "[2021]",
+          "2021."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[2021]"
+      },
+      {
+        "from": [
+          "2020",
+          "[2020]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2020"
+      },
+      {
+        "from": [
+          "Novemb. 21, 1642]",
+          "Novemb. 21, 1642."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Novemb. 21, 1642]"
+      },
+      {
+        "from": [
+          "[2024]",
+          "2024."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[2024]"
+      },
+      {
+        "from": [
+          "Nov. 10, 1642.",
+          "Nov. 10, [1642]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nov. 10, 1642."
+      },
+      {
+        "from": [
+          "1967, c1966.",
+          "[1967, c1966]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1967, c1966."
+      },
+      {
+        "from": [
+          "1968 [c1956]",
+          "[1968, c1956]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1968 [c1956]"
+      },
+      {
+        "from": [
+          "1967, c1945.",
+          "[1967, c1945]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1967, c1945."
+      },
+      {
+        "from": [
+          "Novemb. 24 [1642]",
+          "Novemb. 24, 1642."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Novemb. 24 [1642]"
+      },
+      {
+        "from": [
+          "c2009.",
+          "©2009."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c2009."
+      },
+      {
+        "from": [
+          "1685/6.",
+          "1685/6]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1685/6."
+      },
+      {
+        "from": [
+          "[169-?]",
+          "169-?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[169-?]"
+      },
+      {
+        "from": [
+          "1606.",
+          "1606]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1606."
+      },
+      {
+        "from": [
+          "1604.",
+          "[1604]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1604."
+      },
+      {
+        "from": [
+          "1971-1972.",
+          "[1971-1972]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1971-1972."
+      },
+      {
+        "from": [
+          "1627.",
+          "[1627]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1627."
+      },
+      {
+        "from": [
+          "1633]",
+          "1633."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1633]"
+      },
+      {
+        "from": [
+          "1875",
+          "1875."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1875"
+      },
+      {
+        "from": [
+          "1631.",
+          "1631]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1631."
+      },
+      {
+        "from": [
+          "1645.",
+          "1645]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1645."
+      },
+      {
+        "from": [
+          "1881.",
+          "1881"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1881."
+      },
+      {
+        "from": [
+          "1649.",
+          "1649]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1649."
+      },
+      {
+        "from": [
+          "c1983.",
+          "c1983"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1983."
+      },
+      {
+        "from": [
+          "1657.",
+          "[1657?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1657."
+      },
+      {
+        "from": [
+          "1655.",
+          "1655]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1655."
+      },
+      {
+        "from": [
+          "1897.",
+          "1897"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1897."
+      },
+      {
+        "from": [
+          "1653.",
+          "1653]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1653."
+      },
+      {
+        "from": [
+          "1652.",
+          "[1652]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1652."
+      },
+      {
+        "from": [
+          "1894",
+          "1894."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1894"
+      },
+      {
+        "from": [
+          "c1994.",
+          "c1994-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1994."
+      },
+      {
+        "from": [
+          "c1993.",
+          "c1993-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "c1993."
+      },
+      {
+        "from": [
+          "1667.",
+          "[1667?]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1667."
+      },
+      {
+        "from": [
+          "1664.",
+          "1664]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1664."
+      },
+      {
+        "from": [
+          "1663.",
+          "1663]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1663."
+      },
+      {
+        "from": [
+          "1662.",
+          "[1662]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1662."
+      },
+      {
+        "from": [
+          "1673.",
+          "1673]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1673."
+      },
+      {
+        "from": [
+          "1672.",
+          "1672]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1672."
+      },
+      {
+        "from": [
+          "1693.",
+          "1693]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1693."
+      },
+      {
+        "from": [
+          "1956-1965.",
+          "1956-[1965]."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1956-1965."
+      },
+      {
+        "from": [
+          "1684.",
+          "1684]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1684."
+      }
+    ],
+    "description": "Mass edit cells in column Publication Date"
+  }
+]
