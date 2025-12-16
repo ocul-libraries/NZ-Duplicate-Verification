@@ -1,7 +1,12 @@
 Output files will be saved here.
 
-Notes
-- **`merge-combine.csv`** can be used with Alma's built in Merge Records and Combine Inventory job.
+
+**`verified_duplicates.csv`** is a report of the processing and contains three tabs:
+* ready for step 2: This tab contains all rows that are included in the **`merge-combine.csv`**
+* ready for review: This tab contains records that did not match on one or more of the key descriptors. These records require further review before merging
+* no duplicate: these are records where no duplicate was found
+
+**`merge-combine.csv`** can be used with Alma's built in Merge Records and Combine Inventory job.
 - When running the Merge Records and Combine Inventory job:
   * use the merge rule "OCUL NZ Merge - Automated merge and combine"
   * mark the secondary record for deletion
