@@ -11,9 +11,6 @@ The key descriptors are:
 - 'Publisher' #Normalized with JSON files
 - 'Publication Date' #Normalized with JSON files
 
-The CSV input file can be exported from the shared Alma Analytic:
-/Shared Folders/UTON Network 01OCUL_NETWORK/Reports/NZ Duplicates - for script/NZ Duplicates - TEMPLATE
-
 # Requirements
 Python: 3.8 or higher
 
@@ -32,7 +29,8 @@ Libraries (install via pip):
 - **`ocul-cf_nz_duplicate_verification.py`** → Main script that processes the data.  
 
 # Usage
-- Export CSV file from the Alma Analytic 
-- Place the CSV file in the data/ folder.
-- Run the script: ocul-cf_nz_duplicate_verification.py
-- Final mapped CSV is in the output/ folder (merge-combine.csv)
+- Export CSV file from the Alma Analytic file path:
+  * /Shared Folders/UTON Network 01OCUL_NETWORK/Reports/NZ Duplicates - for script/NZ Duplicates - TEMPLATE
+- Place the CSV file in the **`data/`**
+- Run the script: **`ocul-cf_nz_duplicate_verification.py`**
+- Final mapped CSV is in the **`output/merge-combine.csv`**
