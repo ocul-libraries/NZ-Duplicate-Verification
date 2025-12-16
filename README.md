@@ -4,33 +4,12 @@ This project compares publisher, publication data, and edition statements in bib
 The CSV input file can be exported from the shared Alma Analytic:
 /Shared Folders/UTON Network 01OCUL_NETWORK/Reports/NZ Duplicates - for script/NZ Duplicates - TEMPLATE
 
-
 Requirements
 Python: 3.8 or higher
 Libraries (install via pip):
 - pandas 
 - openpyxl 
 - xlsxwriter
-
-Files & Folders
-The project expects the following structure:
-project-root/
-│
-├── ocul-cf_nz_duplicate_verification.py                
-├── config.json              
-│
-├── data/                    
-│   └── NZ Duplicates - TEMPLATE.csv # Exported CSV file from Alma Analytics
-│
-├── json/                    
-│   ├── publisher.json
-│   └── publicationdate.json
-│
-└── output/                  
-    ├── updated_NZ Duplicates - TEMPLATE.csv
-    ├── verified_duplicates.xlsx
-    ├── updated_verified_duplicates.xlsx
-    └── merge-combine.csv
 
 Usage
 - Export CSV file from the Alma Analytic 
