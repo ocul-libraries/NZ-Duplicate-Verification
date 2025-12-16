@@ -23,7 +23,6 @@ Libraries (install via pip):
 
 # Usage
 - Export CSV file from the Alma Analytic 
-- Create a data/ folder and an output/ folder in the same folder as the python script, json/ folder, and cong.json file.
 - Place the CSV file in the data/ folder.
 - Run the script: ocul-cf_nz_duplicate_verification.py
 - Final mapped CSV is in the output/ folder (merge-combine.csv)
