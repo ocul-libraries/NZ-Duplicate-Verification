@@ -1,0 +1,8 @@
+{
+  "Paths": {
+    "csv_file_path": "data/NZ Duplicates - TEMPLATE.csv",
+    "json_publisher_path": "json/publisher.json",
+    "json_publicationdate_path": "json/publicationdate.json",
+    "updated_file_path": "data/updated_NZ Duplicates - TEMPLATE.csv"
+  }
+}
